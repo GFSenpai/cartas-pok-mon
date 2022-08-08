@@ -20,8 +20,8 @@
   }
 
   .cartao .informacoes .nome {
-    max-width: 50%;
-    font-size: 18px;
+    max-width: 50% ;
+    font-size: 18px ;
   }
 
   .cartao .informacoes .vida {
