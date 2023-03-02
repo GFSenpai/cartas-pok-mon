@@ -1,5 +1,3 @@
-# Cartas-pokemon
-
 ## ⚙️Tecnologias
 
 - HTML
